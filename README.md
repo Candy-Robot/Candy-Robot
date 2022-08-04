@@ -1,5 +1,5 @@
 ## Hi I'm Candy_Robot 👋
-- 📫 Email me at: [18458856673@163.com](mailto:18458856673@163.com)
+- 📫 Email me at: [tyctycc@163.com](mailto:tyctycc@163.com)
 
 ## ⚡ Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
